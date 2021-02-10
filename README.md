@@ -2,7 +2,7 @@
 
 these are the files i used to animate my ["fan music video" of wavetapper by frums](https://youtu.be/kq_nzrr_ZdE)
 
-automation was mainly by abusing `browser.window.create()` and `browser.tabs.move()` from the [firefox webextensions api](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API)
+automation was mainly by abusing `browser.windows.create()` and `browser.tabs.move()` from the [firefox webextensions api](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API)
 
 ### running this yourself (why)
 you will have to install the extension locally. feel free to scan the code to see if there's anything malicious in there (there isn't) first
